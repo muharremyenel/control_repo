@@ -1,5 +1,5 @@
 mod 'puppet/nginx', '1.0.0'
-mod 'puppetlabs/stdlib', '4.24.0'
+mod 'puppetlabs/stdlib', '5.0.0'
 mod 'puppetlabs/concat', '6.4.0'
 mod 'puppetlabs/translate', '1.1.0'
 mod 'samuelson/dockeragent'
