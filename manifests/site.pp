@@ -5,7 +5,7 @@ node default {
     owner   => 'root',
   }
 }
-node 'ubuntu-bionic.puppet.vm' {
+node 'ubuntu-bionic.localdomain' {
   include role::master_server
 }
 node /^web/ { 
